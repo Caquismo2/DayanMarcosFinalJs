@@ -1,0 +1,27 @@
+
+[
+  {
+    "nombre": "Gin Monkey",
+    "precio": "$16500",
+    "id": 1,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_918240-MLA43643309657_102020-F.webp"
+  },
+  {
+    "nombre": "Hendrix",
+    "precio": "$18000",
+    "id": 2,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_741009-MLA53023502804_122022-F.webp"
+  },
+  {
+    "nombre": "Bulldog",
+    "precio": "$17000",
+    "id": 3,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_674989-MLA53483081904_012023-F.webp"
+  },
+  {
+    "nombre": "Puerto de Indias",
+    "precio": "$21000",
+    "id": 4,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_825399-MLA48452908513_122021-F.webp"
+  }
+]
